@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h1{
+   font-size: 25px;    
+}
+h2{
+   font-size: 10px; 
+}
+h3{
+    background-color: rgb(236, 233, 233);
+}
+h4{
+    margin-bottom: 5px;   
+}
+li{
+    padding-bottom: 5px;
+}
+.refs{
+    font-size: 10px; 
+}
+#refTitle{
+    background-color: transparent;
+    margin-bottom: -5px;
+}
+#grumpyCat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container{
+    width: 100%;
+    padding: 5px;
+
+}
